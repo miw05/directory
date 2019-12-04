@@ -22,5 +22,11 @@
     "github": "https://github.com/romain-le-mercier",
     "linkedin": "https://www.linkedin.com/in/romain-le-mercier-79452341/",
     "teaching": "PHP;Prestashop"
+  },
+  {
+    "name"    : "Cirill",
+    "github"  : "https://github.com/FerrierCirill",
+    "linkdin" : "https://www.linkedin.com/in/ferriercirill/"
+    "promo"   : 2020
   }
 ]
