@@ -17,7 +17,7 @@
     "deskCoordinate": "2;0",
     "promo": 2013
   },
-  {    
+  {
     "name": "Jéremy",
     "github": "https://github.com/Zetsuy",
     "deskCoordinate": "2;1",
@@ -41,10 +41,22 @@
     "linkdin" : "https://www.linkedin.com/in/ferriercirill/",
     "promo"   : 2020
   },
-    {
+  {
     "name"    : "Jérôme BC",
     "github"  : "https://github.com/jerome05230",
     "linkdin" : "https://www.linkedin.com/in/j%C3%A9r%C3%B4me-baron-campos/",
     "promo"   : 2018
+  },
+  {
+    "name"    : "Anthony",
+    "github"  : "https://github.com/jerome05230",
+    "deskCoordinate": "3;4",
+    "promo"   : 2020
+  },
+  {
+    "name"    : "Gabriel",
+    "github"  : "https://github.com/gabrielbarneaud",
+    "deskCoordinate": "3;3",
+    "promo"   : 2020
   }
 ]
