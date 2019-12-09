@@ -2,7 +2,7 @@
   {
     "name": "Axel",
     "github": "https://github.com/Axel-AMGHAR/",
-    "deskCoordinate": "1;1",
+    "deskCoordinate": "1;3",
     "promo": 2020
   },
   {
@@ -39,7 +39,8 @@
     "name"    : "Cirill",
     "github"  : "https://github.com/FerrierCirill",
     "linkdin" : "https://www.linkedin.com/in/ferriercirill/",
-    "promo"   : 2020
+    "promo"   : 2020,
+    "deskCoordinate": "1;4"
   },
     {
     "name"    : "Jérôme BC",
