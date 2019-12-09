@@ -2,13 +2,21 @@
   {
     "name": "Axel",
     "github": "https://github.com/Axel-AMGHAR/",
-    "deskCoordinate": "1;1",
+    "deskCoordinate": "1;3",
     "promo": 2020
   },
   {
     "name": "Jéremy",
     "github": "https://github.com/Zetsuy",
+    "linkedin" : "https://www.linkedin.com/in/j%C3%A9r%C3%A9my-garcia-087074167/" ,
     "deskCoordinate": "3;2",
+    "promo": 2020
+  },
+  {
+    "name": "Floren",
+    "github": "https://github.com/BlackFox3000",
+    "linkedin" :"https://www.linkedin.com/in/floren-tintorri-02889a196/",
+    "deskCoordinate": "3;1",
     "promo": 2020
   },
   {
