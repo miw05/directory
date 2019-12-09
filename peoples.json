@@ -86,4 +86,10 @@
     "deskCoordinate": "3;3",
     "promo"   : 2020
   }
+  {
+    "name"    : "Youssef",
+    "github"  : "https://github.com/jerome05230",
+    "deskCoordinate": "3;4",
+    "promo"   : 2020
+  },
 ]
