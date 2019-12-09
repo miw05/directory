@@ -87,17 +87,15 @@
     "promo"   : 2020
   },
   {
-    "name"    : "Sylvain",
-    "github"  : "https://github.com/SylvainLangler",
-    "deskCoordinate": "2;1",
-    "linkedin": "https://www.linkedin.com/in/sylvain-langler-448a1213a/",
+    "name"    : "Youssef",
+    "github"  : "https://github.com/elatrach",
+    "deskCoordinate": "5;2",
     "promo"   : 2020
   },
   {
-    "name"    : "Peterson",
-    "github"  : "https://github.com/prostain",
-    "deskCoordinate": "2;2",
-    "linkedin": "https://www.linkedin.com/in/peterson-rostain-dev/",
+    "name"    : "Corentin",
+    "github"  : "https://github.com/corentin-tech",
+    "deskCoordinate": "5;1",
     "promo"   : 2020
   }
 ]
