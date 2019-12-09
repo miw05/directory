@@ -26,7 +26,15 @@
   {    
     "name": "Jéremy",
     "github": "https://github.com/Zetsuy",
-    "deskCoordinate": "2;1",
+    "linkedin" : "https://www.linkedin.com/in/j%C3%A9r%C3%A9my-garcia-087074167/" ,
+    "deskCoordinate": "3;2",
+    "promo": 2020
+  },
+  {
+    "name": "Floren",
+    "github": "https://github.com/BlackFox3000",
+    "linkedin" :"https://www.linkedin.com/in/floren-tintorri-02889a196/",
+    "deskCoordinate": "3;1",
     "promo": 2020
   },
   {
