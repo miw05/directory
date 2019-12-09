@@ -99,5 +99,17 @@
     "deskCoordinate": "2;2",
     "linkedin": "https://www.linkedin.com/in/peterson-rostain-dev/",
     "promo"   : 2020
+  },
+  {
+    "name"    : "Youssef",
+    "github"  : "https://github.com/elatrach",
+    "deskCoordinate": "5;2",
+    "promo"   : 2020
+  },
+  {
+    "name"    : "Corentin",
+    "github"  : "https://github.com/corentin-tech",
+    "deskCoordinate": "5;1",
+    "promo"   : 2020
   }
 ]
