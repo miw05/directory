@@ -79,5 +79,19 @@
     "github"  : "https://github.com/gabrielbarneaud",
     "deskCoordinate": "3;3",
     "promo"   : 2020
+  },
+  {
+    "name"    : "Sylvain",
+    "github"  : "https://github.com/SylvainLangler",
+    "deskCoordinate": "2;1",
+    "linkedin": "https://www.linkedin.com/in/sylvain-langler-448a1213a/",
+    "promo"   : 2020
+  },
+  {
+    "name"    : "Peterson",
+    "github"  : "https://github.com/prostain",
+    "deskCoordinate": "2;2",
+    "linkedin": "https://www.linkedin.com/in/peterson-rostain-dev/",
+    "promo"   : 2020
   }
 ]
