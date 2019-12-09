@@ -81,6 +81,17 @@
     "promo"   : 2018
   },
   {
+    "name"    : "Antonin",
+    "github"  : "https://github.com/Nywayz",
+    "linkdin" : "",
+    "promo"   : 2020
+  },
+  {
+    "name"    : "Jordan",
+    "github"  : "https://github.com/JordanSellies",
+    "promo"   : 2020
+  },
+  {
     "name"    : "Anthony",
     "github"  : "https://github.com/Anthony-Buisson",
     "deskCoordinate": "3;4",
