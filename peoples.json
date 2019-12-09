@@ -46,5 +46,17 @@
     "github"  : "https://github.com/jerome05230",
     "linkdin" : "https://www.linkedin.com/in/j%C3%A9r%C3%B4me-baron-campos/",
     "promo"   : 2018
+  },
+  {
+    "name"    : "Sylvain",
+    "github"  : "https://github.com/SylvainLangler",
+    "linkedin": "https://www.linkedin.com/in/sylvain-langler-448a1213a/",
+    "promo"   : 2020
+  },
+  {
+    "name"    : "Peterson",
+    "github"  : "https://github.com/prostain",
+    "linkedin": "https://www.linkedin.com/in/peterson-rostain-dev/",
+    "promo"   : 2020
   }
 ]
