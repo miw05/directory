@@ -144,6 +144,12 @@
     "promo"   : 2020
   },
   {
+    "name"    : "Maxime",
+    "github"  : "https://github.com/maxBDL",
+    "deskCoordinate": "5;1",
+    "promo"   : 2021
+  },
+  {
     "name"    : "Clément",
     "github"  : "https://github.com/ClemB15",
     "deskCoordinate": "2;1",
