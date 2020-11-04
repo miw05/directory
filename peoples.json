@@ -129,5 +129,12 @@
     "github"  : "https://github.com/corentin-tech",
     "deskCoordinate": "5;1",
     "promo"   : 2020
+  },
+  {
+    "name"    : "Julie",
+    "github"  : "https://github.com/JLP0578",
+    "deskCoordinate": "5;2",
+    "linkedin": "https://www.linkedin.com/in/julie-le-pivert-7229a1180/",
+    "promo"   : 2021
   }
 ]
