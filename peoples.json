@@ -129,5 +129,12 @@
     "github"  : "https://github.com/corentin-tech",
     "deskCoordinate": "5;1",
     "promo"   : 2020
+  },
+  {
+    "name"    : "Clément",
+    "github"  : "https://github.com/ClemB15",
+    "deskCoordinate": "2;1",
+    "linkedin": "https://www.linkedin.com/in/clément-bourbon/",
+    "promo"   : 2021
   }
 ]
