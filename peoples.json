@@ -129,5 +129,11 @@
     "github"  : "https://github.com/corentin-tech",
     "deskCoordinate": "5;1",
     "promo"   : 2020
+  },
+  {
+    "name"    : "Maxime",
+    "github"  : "https://github.com/maxBDL",
+    "deskCoordinate": "5;1",
+    "promo"   : 2021
   }
 ]
