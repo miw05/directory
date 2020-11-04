@@ -1,4 +1,17 @@
 [
+    {
+    "name": "Noé",
+    "github": "https://github.com/noe-guyomarch",
+    "deskCoordinate": "1;1",
+    "promo": 2021
+  },
+  {
+    "name": "Alexis",
+    "github": "https://github.com/ag7-alexis",
+    "linkedin": "https://www.linkedin.com/in/guayalexis/",
+    "deskCoordinate": "",
+    "promo": 2021
+  },
   {
     "name": "Rudy",
     "github": "https://github.com/Bombu/",
@@ -134,6 +147,13 @@
     "name"    : "Maxime",
     "github"  : "https://github.com/maxBDL",
     "deskCoordinate": "5;1",
+    "promo"   : 2021
+  },
+  {
+    "name"    : "Clément",
+    "github"  : "https://github.com/ClemB15",
+    "deskCoordinate": "2;1",
+    "linkedin": "https://www.linkedin.com/in/clément-bourbon/",
     "promo"   : 2021
   }
 ]
