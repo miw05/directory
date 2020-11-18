@@ -25,6 +25,13 @@
     "promo": 2021
   },
   {
+    "name"    : "Yohan",
+    "github"  : "https://github.com/ysalamone",
+    "linkedin": "https://www.linkedin.com/in/yohan-salamone/",
+    "deskCoordinate": "1;3",
+    "promo"   : 2021
+  },
+  {
     "name": "Rudy",
     "github": "https://github.com/Bombu/",
     "deskCoordinate": "1;1",
