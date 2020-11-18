@@ -167,5 +167,12 @@
     "deskCoordinate": "2;1",
     "linkedin": "https://www.linkedin.com/in/clément-bourbon/",
     "promo"   : 2021
+  },
+  {
+    "name"    : "Anthony",
+    "github"  : "https://github.com/antho-fly",
+    "deskCoordinate": "2;3",
+    "linkedin": "https://www.linkedin.com/in/anthobro/",
+    "promo"   : 2021
   }
 ]
