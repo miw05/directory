@@ -173,5 +173,180 @@
     " github " : " https://github.com/theomeozzi " ,
     " deskCoordinate " : " " ,
     " promo " : 2021
-  }
+  },
+   {
+      "name" : "César",
+      "github" : "https://github.com/CesarWatrin",
+      "linkedin" : "https://www.linkedin.com/in/césar-watrin/",
+      "promo" : 2021
+   },
+   {
+      "name" : "Claire",
+      "github" : "https://github.com/Claire-Sabatier",
+      "deskCoordinate" : "",
+      "promo" : 2021
+   },
+   {
+      "name" : "Benoît",
+      "github" : "https://github.com/michelgege",
+      "deskCoordinate": "",
+      "promo" : 2021
+   },
+   {
+      "name": "Noé",
+      "github": "https://github.com/noe-guyomarch",
+      "deskCoordinate": "1;1",
+      "promo": 2021
+   },
+   {
+      "name": "Alexis",
+      "github": "https://github.com/ag7-alexis",
+      "linkedin": "https://www.linkedin.com/in/guayalexis/",
+      "deskCoordinate": "",
+      "promo": 2021
+   },
+   {
+      "name": "Rudy",
+      "github": "https://github.com/Bombu/",
+      "deskCoordinate": "1;1",
+      "promo": 2020
+   },
+   {
+      "name": "Axel",
+      "github": "https://github.com/Axel-AMGHAR/",
+      "deskCoordinate": "1;3",
+      "promo": 2020
+   },
+   {
+      "name": "Saez",
+      "github": "https://github.com/dorianweb/",
+      "deskCoordinate": "4;4",
+      "promo": 2020
+   },
+   {
+      "name": "Lilia",
+      "github": "https://github.com/liliaourte",
+      "deskCoordinate": "4;1",
+      "promo": 2020
+   },
+   {
+      "name": "Sylvian",
+      "github": "https://github.com/Sylvian-Brunet/",
+      "linkedin": "https://www.linkedin.com/in/sylvian-brunet-1443a2199/",
+      "deskCoordinate": "4;2",
+      "promo": 2020
+   },
+   {
+      "name": "Tristan",
+      "github": "https://github.com/redsmowke",
+      "deskCoordinate": "2;0",
+      "promo": 2013
+   },
+   {
+      "name": "Jéremy",
+      "github": "https://github.com/Zetsuy",
+      "linkedin" : "https://www.linkedin.com/in/j%C3%A9r%C3%A9my-garcia-087074167/" ,
+      "deskCoordinate": "3;2",
+      "promo": 2020
+   },
+   {
+      "name": "Floren",
+      "github": "https://github.com/BlackFox3000",
+      "linkedin" :"https://www.linkedin.com/in/floren-tintorri-02889a196/",
+      "deskCoordinate": "3;1",
+      "promo": 2020
+   },
+   {
+      "name": "Adele",
+      "github": "https://github.com/AdelePottier",
+      "deskCoordinate": "5;3",
+      "promo": 2020
+   },
+   {
+      "name": "James",
+      "github": "https://github.com/jim005",
+      "linkedin": "https://www.linkedin.com/in/james007lefevre/",
+      "teaching": "CSS;Drupal"
+   },
+   {
+      "name": "Romain",
+      "github": "https://github.com/romain-le-mercier",
+      "linkedin": "https://www.linkedin.com/in/romain-le-mercier-79452341/",
+      "teaching": "PHP;Prestashop"
+   },
+   {
+      "name"    : "Cirill",
+      "github"  : "https://github.com/FerrierCirill",
+      "linkdin" : "https://www.linkedin.com/in/ferriercirill/",
+      "promo"   : 2020,
+      "deskCoordinate": "1;4"
+   },
+   {
+      "name"    : "Jérôme BC",
+      "github"  : "https://github.com/jerome05230",
+      "linkdin" : "https://www.linkedin.com/in/j%C3%A9r%C3%B4me-baron-campos/",
+      "promo"   : 2018
+   },
+   {
+      "name"    : "Antonin",
+      "github"  : "https://github.com/Nywayz",
+      "linkdin" : "",
+      "promo"   : 2020
+   },
+   {
+      "name"    : "Jordan",
+      "github"  : "https://github.com/JordanSellies",
+      "promo"   : 2020
+   },
+   {
+      "name"    : "Anthony",
+      "github"  : "https://github.com/Anthony-Buisson",
+      "deskCoordinate": "3;4",
+      "promo"   : 2020
+   },
+   {
+      "name"    : "Gabriel",
+      "github"  : "https://github.com/gabrielbarneaud",
+      "deskCoordinate": "3;3",
+      "promo"   : 2020
+   },
+   {
+      "name"    : "Sylvain",
+      "github"  : "https://github.com/SylvainLangler",
+      "deskCoordinate": "2;1",
+      "linkedin": "https://www.linkedin.com/in/sylvain-langler-448a1213a/",
+      "promo"   : 2020
+   },
+   {
+      "name"    : "Peterson",
+      "github"  : "https://github.com/prostain",
+      "deskCoordinate": "2;2",
+      "linkedin": "https://www.linkedin.com/in/peterson-rostain-dev/",
+      "promo"   : 2020
+   },
+   {
+      "name"    : "Youssef",
+      "github"  : "https://github.com/elatrach",
+      "deskCoordinate": "5;2",
+      "promo"   : 2020
+   },
+   {
+      "name"    : "Corentin",
+      "github"  : "https://github.com/corentin-tech",
+      "deskCoordinate": "5;1",
+      "promo"   : 2020
+   },
+   {
+      "name"    : "Maxime",
+      "github"  : "https://github.com/maxBDL",
+      "deskCoordinate": "5;1",
+      "promo"   : 2021
+   },
+   {
+      "name"    : "Clément",
+      "github"  : "https://github.com/ClemB15",
+      "deskCoordinate": "2;1",
+      "linkedin": "https://www.linkedin.com/in/clément-bourbon/",
+      "promo"   : 2021
+   }
 ]
