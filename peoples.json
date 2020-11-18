@@ -167,5 +167,11 @@
     "deskCoordinate": "2;1",
     "linkedin": "https://www.linkedin.com/in/clément-bourbon/",
     "promo"   : 2021
+  },
+  {
+    " name " : " Théo " ,
+    " github " : " https://github.com/theomeozzi " ,
+    " deskCoordinate " : " " ,
+    " promo " : 2021
   }
 ]
