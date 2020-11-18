@@ -169,6 +169,13 @@
     "promo"   : 2020
   },
   {
+    "name"    : "Julie",
+    "github"  : "https://github.com/JLP0578",
+    "deskCoordinate": "5;2",
+    "linkedin": "https://www.linkedin.com/in/julie-le-pivert-7229a1180/",
+    "promo"   : 2021
+  },
+  { 
     "name"    : "Lucas",
     "github"  : "https://github.com/Lucas-Bracq",
     "deskCoordinate": "3;2",
