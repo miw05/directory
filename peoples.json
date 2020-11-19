@@ -107,13 +107,18 @@
     "promo": 2020
   },
   {
-    "name": "James",
+    "name": "James LEFÈVRE",
     "github": "https://github.com/jim005",
     "linkedin": "https://www.linkedin.com/in/james007lefevre/",
     "teaching": "CSS;Drupal"
   },
+   {
+    "name": "Juliette HONORÉ",
+    "linkedin": "https://www.linkedin.com/in/juliette-honor%C3%A9-640b61172/",
+    "teaching": "WebDesign"
+  },
   {
-    "name": "Romain",
+    "name": "Romain LE MERCIER",
     "github": "https://github.com/romain-le-mercier",
     "linkedin": "https://www.linkedin.com/in/romain-le-mercier-79452341/",
     "teaching": "PHP;Prestashop"
