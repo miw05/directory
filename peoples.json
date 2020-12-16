@@ -1,5 +1,11 @@
 [
    {
+    "name": "Théo Boudier",
+    "github": "https://github.com/TheoLeao",
+    "deskCoordinate": "1;3",
+    "promo": 2021
+  }, 
+   {
     "name": "Julien Lallouche",
     "github": "https://github.com/julienlallouche",
     "deskCoordinate": "3;2",
