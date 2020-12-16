@@ -20,7 +20,7 @@
   {
     "name": "Julien",
     "github": "https://github.com/julienLeger05",
-    "deskCoordinate": "1;1",
+    "deskCoordinate": "1;2",
     "promo": 2021
   },
   {
@@ -32,20 +32,20 @@
   {
     "name": "Benoît",
     "github": "https://github.com/michelgege",
-    "deskCoordinate": "",
+    "deskCoordinate": "5;2",
     "promo": 2021
   },
   {
     "name": "Noé",
     "github": "https://github.com/noe-guyomarch",
-    "deskCoordinate": "1;1",
+    "deskCoordinate": "4;1",
     "promo": 2021
   },
   {
     "name": "Alexis",
     "github": "https://github.com/ag7-alexis",
     "linkedin": "https://www.linkedin.com/in/guayalexis/",
-    "deskCoordinate": "",
+    "deskCoordinate": "4;3",
     "promo": 2021
   },
   {
@@ -221,14 +221,14 @@
   {
     "name": "Anthony",
     "github": "https://github.com/antho-fly",
-    "deskCoordinate": "2;3",
+    "deskCoordinate": "3;3",
     "linkedin": "https://www.linkedin.com/in/anthobro/",
     "promo": 2021
   },
   {
     "name": "Bastien",
     "github": "https://github.com/BastienPesce",
-    "deskCoordinate": "1;2",
+    "deskCoordinate": "1;1",
     "promo": 2021
   },
   {
@@ -241,6 +241,7 @@
     "name": "César",
     "github": "https://github.com/CesarWatrin",
     "linkedin": "https://www.linkedin.com/in/césar-watrin/",
+    "deskCoordinate": "3;4",
     "promo": 2021
   },
   {
