@@ -112,7 +112,7 @@
     "linkedin": "https://www.linkedin.com/in/james007lefevre/",
     "teaching": "CSS;Drupal"
   },
-   {
+  {
     "name": "Juliette HONORÉ",
     "linkedin": "https://www.linkedin.com/in/juliette-honor%C3%A9-640b61172/",
     "teaching": "WebDesign"
@@ -226,10 +226,10 @@
     "promo": 2021
   },
   {
-    " name ": " Théo ",
-    " github ": " https://github.com/theomeozzi ",
-    " deskCoordinate ": " ",
-    " promo ": 2021
+    "name": "Théo",
+    "github": "https://github.com/theomeozzi",
+    "deskCoordinate": "",
+    "promo": 2021
   },
   {
     "name": "César",
