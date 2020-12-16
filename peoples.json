@@ -197,7 +197,7 @@
     "github": "https://github.com/Lucas-Bracq",
     "deskCoordinate": "3;2",
     "linkedin": "https://www.linkedin.com/in/lucas-bracq-250a72190/",
-    "promo": 2021
+    "promo": 2020
   },
   {
     "name": "Maxime",
@@ -235,6 +235,13 @@
     "name": "César",
     "github": "https://github.com/CesarWatrin",
     "linkedin": "https://www.linkedin.com/in/césar-watrin/",
+    "promo": 2021
+  },
+  {
+    "name": "Rodrigue",
+    "github": "https://github.com/Rodriguoh",
+    "linkedin": "https://www.linkedin.com/in/rodrigue-kroese/",
+    "deskCoordinate": "1;4",
     "promo": 2021
   }
 ]
